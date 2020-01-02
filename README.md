@@ -56,6 +56,9 @@ http://s.click.aliexpress.com/e/B2JxZy8s
 **5pcs/lot Through Hole DIP** version ATTINY13A-PU $2.70 + 86c shipping  
 http://s.click.aliexpress.com/e/464iihs4
 
+Geekcreit UNOR3 Basic Starter Learning Kits No Battery - products that work with official Arduino boards  
+https://www.banggood.com/custlink/mDGGbiNsLH  
+
 <img src="https://images-eu.ssl-images-amazon.com/images/I/21thbHvAFHL._SL110_.jpg">  
 White Paint Pen, 6 Pack 0.7mm Acrylic White Permanent Marker White  
 https://amzn.to/2FaeuZ9  
