@@ -53,8 +53,10 @@ http://s.click.aliexpress.com/e/464iihs4
 <img src="https://images-eu.ssl-images-amazon.com/images/I/21thbHvAFHL._SL110_.jpg">  
 White Paint Pen, 6 Pack 0.7mm Acrylic White Permanent Marker White  
 https://amzn.to/2FaeuZ9  
-
-**ATtiny13 Development Board** - I've ordered this, I'll show all in a future video    
+<br>
+<br>
+**ATtiny13 Development Board** - I've ordered this, I'll show all in a future video  
+<img src="/images/Tiny13DevBoard.JPG" width="25%">  
 https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey  
