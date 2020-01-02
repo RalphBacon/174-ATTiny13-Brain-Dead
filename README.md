@@ -1,4 +1,4 @@
-# 174-ATTiny13 - Brain-Dead?
+# ATTiny13 - Brain-Dead?
 Too small to program? Watch the video and find out!  
 
 ### See https://www.youtube.com/ralphbacon video #174
