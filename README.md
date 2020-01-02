@@ -42,6 +42,9 @@ https://blog.podkalicki.com/100-projects-on-attiny13/
 ATTiny13 DataSheet  
 http://ww1.microchip.com/downloads/en/devicedoc/doc2535.pdf
 
+Lots of Tiny85-related documents  
+https://www.microchip.com/wwwproducts/en/ATTINY13  
+
 ### PRODUCT LINKS
 
 ATTiny85 and ATTiny13 Programmer (Using underlying Arduino As ISP)  
