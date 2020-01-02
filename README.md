@@ -6,6 +6,8 @@ Too small to program? Watch the video and find out!
 
 ### $8 off your first order at LCSC Electronics with https://lcsc.com/?href=ralphsbacon&source=referral  
 
+<img src="/images/Thmumbnail.jpg" aligh="left" width="25%">
+
 So I was persuaded by my viewers to try teh ATTiny13 chip on the basis that it was very cheap and was "just a miniature Tiny85".  
 
 Well, having spent a couple of days getting the Oscillation Calibration (OSCCAL) value only to find that ATMEL had already done this for me I then wondered why my serial output was not all it should have been.  
@@ -18,7 +20,7 @@ http://bit.ly/YouTubeVideoList-RalphBacon
 
 ### INFORMATION LINKS
 
-MCUDude's **MICROCORE**
+MCUDude's **MICROCORE**  
 https://github.com/MCUdude/MicroCore
 
 Put "Serial" on a diet, says Ralph Doncaster. What's MCUDude's response?  
@@ -48,8 +50,9 @@ http://s.click.aliexpress.com/e/B2JxZy8s
 **5pcs/lot Through Hole DIP** version ATTINY13A-PU $2.70 + 86c shipping  
 http://s.click.aliexpress.com/e/464iihs4
 
+<img src="https://images-eu.ssl-images-amazon.com/images/I/21thbHvAFHL._SL110_.jpg">  
 White Paint Pen, 6 Pack 0.7mm Acrylic White Permanent Marker White  
-https://amzn.to/2FaeuZ9
+https://amzn.to/2FaeuZ9  
 
 **ATtiny13 Development Board** - I've ordered this, I'll show all in a future video    
 https://www.banggood.com/ATtiny13-Development-Board-Tiny13-AVR-Minimum-System-Learning-p-1460486.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
